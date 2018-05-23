@@ -49,7 +49,7 @@ mvnw install
 mvnw spring-boot:run
 ```
 
-## Acessado a aplicação
+## Acessando a Aplicação
 
 Pronto! Realizado os passos acima sua aplicação já estará rodando LOUCA-mente.
 Acesse o endereço http://localhost:8080
