@@ -25,7 +25,7 @@ yo rsbdev
 
 ## License
 
-MIT Â© [Renato Santos](https://rsbdev.com.br)
+MIT © [Renato Santos](https://rsbdev.com.br)
 
 
 [npm-image]: https://badge.fury.io/js/generator-rsbdev.svg
