@@ -1,0 +1,9 @@
+{
+    "generator-node": {
+        "promptValues": {
+            "authorName": "Renato Santos",
+            "authorEmail": "renato.rjps@gmail.com",
+            "authorUrl": "https://rsbdev.com.br"
+        }
+    }
+}
